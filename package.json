@@ -1,0 +1,16 @@
+{
+  "name": "solana-aggregator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "pnpm --filter ts-tests test",
+    "build:idl": "anchor idl build"
+  },
+  "workspaces": [
+    "ts"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
+

@@ -1,0 +1,17 @@
+/home/jhy3/develop/defiLab/solana-aggregator/target/release/deps/libthiserror_impl-c4ab1d20bcedccdb.so: /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/lib.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/ast.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/attr.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/expand.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/fallback.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/fmt.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/generics.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/prop.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/scan_expr.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/unraw.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/valid.rs
+
+/home/jhy3/develop/defiLab/solana-aggregator/target/release/deps/thiserror_impl-c4ab1d20bcedccdb.d: /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/lib.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/ast.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/attr.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/expand.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/fallback.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/fmt.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/generics.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/prop.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/scan_expr.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/unraw.rs /home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/valid.rs
+
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/lib.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/ast.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/attr.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/expand.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/fallback.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/fmt.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/generics.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/prop.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/scan_expr.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/unraw.rs:
+/home/jhy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-2.0.17/src/valid.rs:
+
+# env-dep:CARGO_PKG_VERSION_PATCH=17
