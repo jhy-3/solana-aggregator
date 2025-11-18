@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "test": "pnpm --filter ts-tests test",
-    "build:idl": "anchor idl build"
+    "build:idl": "anchor idl build",
+    "demo": "pnpm --filter ts-tests demo",
+    "demo:setup": "anchor build && anchor deploy",
+    "demo:full": "pnpm demo:setup && pnpm demo"
   },
   "workspaces": [
     "ts"

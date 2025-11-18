@@ -8,6 +8,8 @@
 
 ## 快速开始
 
+> 💡 **快速运行资产注册和存取款演示？** 查看 [QUICKSTART.md](./QUICKSTART.md)
+
 1. **安装依赖**
 
    ```bash
@@ -31,16 +33,48 @@
 
 3. **运行示例脚本**
 
+   有三种方式运行演示：
+
+   **方式一：运行独立演示脚本（推荐）**
    ```bash
-   anchor test    # 启动本地 validator + 运行 ts/tests/vault.ts
-   # 或单测 TypeScript 流程
+   # 1. 构建程序
+   anchor build
+   
+   # 2. 启动本地 validator（新开终端）
+   solana-test-validator
+   
+   # 3. 在另一个终端部署程序
+   anchor deploy
+   
+   # 4. 运行演示
+   pnpm demo
+   ```
+   这会演示完整的资产注册和存取款流程，包括：
+   - 初始化 Vault
+   - 注册 USDC 资产
+   - 用户存款（带邀请奖励）
+   - 查询账户状态
+   - 用户取款
+
+   **方式二：运行完整测试套件**
+   ```bash
+   anchor test    # 启动本地 validator + 运行完整测试
+   # 或
    pnpm test
    ```
+   `anchor test` 会自动：
+   - 启动本地 test validator
+   - 构建 `programs/vault`
+   - 运行 `ts/tests/vault.ts`，演示多资产注册、存取款、模拟收益、积分与邀请积分
 
-`anchor test` 会自动：
-- 启动本地 test validator
-- 构建 `programs/vault`
-- 运行 `ts/tests/vault.ts`，演示多资产注册、存取款、模拟收益、积分与邀请积分
+   **方式三：手动运行 TypeScript 测试**
+   ```bash
+   # 确保本地 validator 在运行
+   solana-test-validator
+   
+   # 在另一个终端
+   pnpm test
+   ```
 
 ## Demo 要点
 
